@@ -24,6 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * Lucide React Native: Biblioteca de ícones.
 
 📂 Estrutura de Pastas
+
 O projeto está organizado da seguinte forma:
 
 shoppingList/
