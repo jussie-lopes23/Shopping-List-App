@@ -1,4 +1,4 @@
-Shopping List App 🛒
+#Shopping List App 🛒
 Um aplicativo de lista de compras simples e funcional, desenvolvido com React Native e Expo.
 
 📜 Sobre o Projeto
