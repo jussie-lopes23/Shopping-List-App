@@ -35,6 +35,7 @@ shoppingList/
 │   ├── app/
 
 │   │   └── Home/ # Tela principal da aplicação
+
 │   ├── assets/           # Imagens e outros recursos estáticos
 
 │   ├── components/       # Componentes reutilizáveis (Botão, Input, etc.)
