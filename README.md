@@ -26,41 +26,50 @@ O projeto está organizado da seguinte forma:
 
 shoppingList/
 ├── .expo/
+
 ├── src/
+
 │   ├── app/
-│   │   └── Home/         # Tela principal da aplicação
+
+│   │   └── Home/ # Tela principal da aplicação
 │   ├── assets/           # Imagens e outros recursos estáticos
+
 │   ├── components/       # Componentes reutilizáveis (Botão, Input, etc.)
+
 │   ├── storage/          # Lógica de armazenamento local
+
 │   └── types/            # Definições de tipos do TypeScript
+
 ├── .gitignore
+
 ├── app.json              # Configurações do Expo
+
 ├── package.json          # Dependências e scripts do projeto
+
 └── tsconfig.json         # Configurações do TypeScript
 
 # 🚀 Como Rodar o Projeto
 Siga os passos abaixo para executar o projeto em seu ambiente de desenvolvimento.
 
-Pré-requisitos
+#Pré-requisitos
 Antes de começar, você precisará ter o Node.js (que inclui o npm) e o Expo CLI instalados em sua máquina.
 
 # Instale o Expo CLI globalmente, caso ainda não o tenha
 npm install -g expo-cli
 
 # Clonar repositório e instalar dependências
-Clone o repositório: git clone https://github.com/seu-usuario/shopping-list-app.git
+Clone o repositório: git clone https://github.com/jussie-lopes23/Shopping-List-App.git
+
 Mude para a pasta cd shopping-list-app
+
 Instale as dependências: npm install
 
-# Inicia o servidor de desenvolvimento
+# Iniciar o servidor de desenvolvimento e rodar aplicação
 npm start ou npx expo start
-
-Execute em um dispositivo ou emulador:
 
 Após iniciar o servidor, um QR code será exibido no terminal.
 
-Dispositivo Físico: Baixe o aplicativo Expo Go na App Store (iOS) ou Google Play (Android) e escaneie o QR code.
-
-Emulador:
-* Para Android, pressione a no terminal com o Expo em execução.
-* Para iOS, pressione i no terminal com o Expo em execução.
+*Dispositivo Físico: Baixe o aplicativo Expo Go na App Store (iOS) ou Google Play (Android) e escaneie o QR code.
+*Emulador:
+  * Para Android, pressione "a" no terminal com o Expo em execução. Para isso é necessário ter instalado e configurado o Android Studio.
+  * Para iOS, pressione "i" no terminal com o Expo em execução. Para isso é necessário ter instalado e configurado o Xcode.
