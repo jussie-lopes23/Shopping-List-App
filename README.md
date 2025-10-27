@@ -3,6 +3,7 @@
 Um aplicativo de lista de compras simples e funcional, desenvolvido com React Native e Expo.
 
 📜 Sobre o Projeto
+
 Este é um aplicativo para gerenciar listas de compras, permitindo ao usuário adicionar, remover, e marcar itens como comprados. Os itens são salvos no armazenamento local do dispositivo, garantindo que os dados persistam entre as sessões.
 
 ✨ Funcionalidades
