@@ -72,7 +72,7 @@ npm start ou npx expo start
 
 Após iniciar o servidor, um QR code será exibido no terminal.
 
-*Dispositivo Físico: Baixe o aplicativo Expo Go na App Store (iOS) ou Google Play (Android) e escaneie o QR code.
-*Emulador:
+* Dispositivo Físico: Baixe o aplicativo Expo Go na App Store (iOS) ou Google Play (Android) e escaneie o QR code.
+* Emulador:
   * Para Android, pressione "a" no terminal com o Expo em execução. Para isso é necessário ter instalado e configurado o Android Studio.
   * Para iOS, pressione "i" no terminal com o Expo em execução. Para isso é necessário ter instalado e configurado o Xcode.
