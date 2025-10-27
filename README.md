@@ -51,7 +51,7 @@ shoppingList/
 
 └── tsconfig.json         # Configurações do TypeScript
 
-# 🚀 Como Rodar o Projeto
+# Como Rodar o Projeto
 Siga os passos abaixo para executar o projeto em seu ambiente de desenvolvimento.
 
 #Pré-requisitos
